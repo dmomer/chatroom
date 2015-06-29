@@ -5,7 +5,7 @@
 
 
 ## Usage
-
+$node index.js
 
 
 ## Developing
